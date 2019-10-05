@@ -13,6 +13,7 @@ Após ser executado o algoritmo irá criar um banco de dados na pasta onde ele m
 - 2 opção: É onde será exibido o nome do cliente, seu CPF e seu contato.
 - 3 opção: É onde será exibido o CPF para identificação e o custo de cada cliente.
 - 4 opção: É onde será exibido o CPF, o custo, o preço, o lucro de cada cliente e o lucro total da empresa.
+- Opção ZERO: É onde o programa fechará. 
 > #### Quando é escolhido a primeira opção, é exibido o seguinte menu:
 >- CPF: 11 dígitos, sem pontos ou traços.
 >- Nome: É possível digitar apenas nomes com no máximo 50 letras.
@@ -44,7 +45,7 @@ Após ser executado o algoritmo irá criar um banco de dados na pasta onde ele m
 |11111111111  | 350|600|250|
 |22222222222 |450|700|250|
 |**LUCRO TOTAL** : |500
->Caso seja escolhida a quarta opção, o programa irá fechar. E se for digitado algum número diferente dos que estão presentes no menu, será emitido um erro. 
+>Caso seja escolhido a opção que contém o número ZERO, o programa irá fechar. E se for digitado algum número diferente dos que estão presentes no menu, será emitido um erro. 
 ## Considerações
  >É necessário seguir a forma de inserção de dados correta. 
 
