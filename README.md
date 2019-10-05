@@ -17,18 +17,18 @@ Após ser executado o algoritmo irá criar um banco de dados na pasta onde ele m
 >- CPF(11 dígitos).
 > Sem pontos ou traços.
 >- Nome:
-É possível digitar apenas nomes com no máximo 50 letras.
+> É possível digitar apenas nomes com no máximo 50 letras.
 >- Telefone
 >- Custo da entrega    
-Em reais, pois as exibições posteriores são feitas em real.
+> Em reais, pois as exibições posteriores são feitas em real.
 >- Preço da entrega
-Em reais, pois as exibições posteriores são feitas em real.
+> Em reais, pois as exibições posteriores são feitas em real.
 >- Lucro da entrega
-Em reais, pois as exibições posteriores são feitas em real.
+> Em reais, pois as exibições posteriores são feitas em real.
 >- Data de envio
->No formato DD/MM/AA, onde DD são os dias, MM os meses, AA os anos.
+> No formato DD/MM/AA, onde DD são os dias, MM os meses, AA os anos.
 >- Data da entrega
-Também no formato DD/MM/AA, onde DD são os dias, MM os meses, AA os anos.
+> Também no formato DD/MM/AA, onde DD são os dias, MM os meses, AA os anos.
 
 >#### Quando é escolhido a segunda opção, é exibido:
 > 
