@@ -22,7 +22,7 @@ Após ser executado o algoritmo irá criar um banco de dados na pasta onde ele m
 >- Lucro da entrega:  Em reais, pois as exibições posteriores são feitas em real.
 >- Data de envio:  No formato DD/MM/AA, onde DD são os dias, MM os meses, AA os anos.
 >- Data da entrega: Também no formato DD/MM/AA, onde DD são os dias, MM os meses, AA os anos.
-
+### Após a primeira inserção de dados: 
 >#### Quando é escolhido a segunda opção, é exibido:
 > 
 |CPF | Contato | Nome|
