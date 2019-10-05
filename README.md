@@ -14,8 +14,7 @@ Após ser executado o algoritmo irá criar um banco de dados na pasta onde ele m
 - 3 opção: É onde será exibido o CPF para identificação e o custo de cada cliente.
 - 4 opção: É onde será exibido o CPF, o custo, o preço, o lucro de cada cliente e o lucro total da empresa.
 > #### Quando é escolhido a primeira opção, é exibido o seguinte menu:
->- CPF(11 dígitos):  
->Onde há um limite de 11 números.
+>- CPF(11 dígitos)
 >- Nome:
 >É possível digitar apenas nomes com no máximo 50 letras.
 >- Telefone
