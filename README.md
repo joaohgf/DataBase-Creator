@@ -30,21 +30,21 @@ Após ser executado o algoritmo irá criar um banco de dados na pasta onde ele m
 >- Data da entrega
 Também no formato DD/MM/AA, onde DD são os dias, MM os meses, AA os anos.
 
->## Quando é escolhido a segunda opção, é exibido:
+>### Quando é escolhido a segunda opção, é exibido:
 > 
 |CPF | Contato | Nome|
 |--|--|--|
 | 11111111111 | 21 993852134 |José Carlos|
 | 22222222222 | 22 993145623 | Caio Andrade
 
-> ## Quando é escolhido a terceira opção, é exibido: 
+> ### Quando é escolhido a terceira opção, é exibido: 
 >
 |CPF  | CUSTO  |
 |--|--|
 | 11111111111  |350  |
 |22222222222 |450
 |**CUSTO TOTAL** : |800
->## Quando é escolhido a quarta opção, é exibido:
+>### Quando é escolhido a quarta opção, é exibido:
 >
 | CPF |Custo  |Preço|Lucro|
 |--|--|--|--|
@@ -56,6 +56,6 @@ Também no formato DD/MM/AA, onde DD são os dias, MM os meses, AA os anos.
  >É necessário seguir a forma de inserção de dados correta. 
 
 ### Criação por:
->João Henrique
->Email: joao.henriquefreitas@outlook.com
+>João Henrique.
+>Email: joao.henriquefreitas@outlook.com .
 >Linkedin: https://www.linkedin.com/in/joao-henrique-g-622976134/
