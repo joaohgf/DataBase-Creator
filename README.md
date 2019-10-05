@@ -14,21 +14,14 @@ Após ser executado o algoritmo irá criar um banco de dados na pasta onde ele m
 - 3 opção: É onde será exibido o CPF para identificação e o custo de cada cliente.
 - 4 opção: É onde será exibido o CPF, o custo, o preço, o lucro de cada cliente e o lucro total da empresa.
 > #### Quando é escolhido a primeira opção, é exibido o seguinte menu:
->- CPF(11 dígitos).
-> Sem pontos ou traços.
->- Nome:
-> É possível digitar apenas nomes com no máximo 50 letras.
+>- CPF: 11 dígitos, sem pontos ou traços.
+>- Nome: É possível digitar apenas nomes com no máximo 50 letras.
 >- Telefone
->- Custo da entrega    
-> Em reais, pois as exibições posteriores são feitas em real.
->- Preço da entrega
-> Em reais, pois as exibições posteriores são feitas em real.
->- Lucro da entrega
-> Em reais, pois as exibições posteriores são feitas em real.
->- Data de envio
-> No formato DD/MM/AA, onde DD são os dias, MM os meses, AA os anos.
->- Data da entrega
-> Também no formato DD/MM/AA, onde DD são os dias, MM os meses, AA os anos.
+>- Custo da entrega:  Em reais, pois as exibições posteriores são feitas em real.
+>- Preço da entrega:  Em reais, pois as exibições posteriores são feitas em real.
+>- Lucro da entrega:  Em reais, pois as exibições posteriores são feitas em real.
+>- Data de envio:  No formato DD/MM/AA, onde DD são os dias, MM os meses, AA os anos.
+>- Data da entrega: Também no formato DD/MM/AA, onde DD são os dias, MM os meses, AA os anos.
 
 >#### Quando é escolhido a segunda opção, é exibido:
 > 
