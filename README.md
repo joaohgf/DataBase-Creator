@@ -5,7 +5,7 @@ Neste algoritmo você é capaz de adicionar e posteriormente solicitar algumas e
 
 # Pré-requisitos
 
-É necessário possuir o Python3 instalado e o algoritmo salvo.  
+É necessário possuir o Python3 instalado, Sqlite3 e o algoritmo salvo.  
 
 # Utilizando o algoritmo
 Após ser executado o algoritmo irá criar um banco de dados na pasta onde ele mesmo foi salvo, e o usuário terá acesso a um menu onde haverá 4 opções: 
