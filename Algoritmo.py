@@ -65,7 +65,7 @@ while(resp !=0):
         cont = cursor.execute("SELECT * FROM clientes")
         print('CPF          Contato             Nome')
         for row in cont:
-            print(row[1], '  ',row[2], '           ', row[3])
+            print(row[1], '  ',row[2], '         ', row[3])
         resp = int(input('O que você deseja fazer:\n'
                          '1 - Inserir dados\n'
                          '2 - Todos os clientes e seus contatos\n'
